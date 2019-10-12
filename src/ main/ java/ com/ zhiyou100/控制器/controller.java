@@ -25,8 +25,8 @@ import com.zhiyou100.service.Servicee;
 /** 
 
 * @author 作者 : 赵柄旭
-
-* @version 创建时间：2019年9月3日 下午2:42:52 
+//嘿嘿
+* @version创建时间：2019年9月3日下午2:42:52 
 
 * 类说明 
 
